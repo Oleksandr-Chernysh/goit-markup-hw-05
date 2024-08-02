@@ -519,16 +519,16 @@ footer p {
     top: 0;
     left: 0;
     background-color: rgba(46, 47, 66, 0.4);
-    /* z-index: 900;
+    z-index: 900;
     opacity: 0;
-    pointer-events: none; */
+    pointer-events: none;
     transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* .modal-overlay.is-open{
+.modal-overlay.is-open{
     opacity: 1;
     pointer-events: auto;
-} */
+}
 
 .modal{
     width: 408px;
@@ -596,7 +596,7 @@ footer p {
     margin-bottom: 8px;
 }
 
-.modal-form-fourt{
+.modal-form-fourth{
     margin-bottom: 16px;
 }
 
