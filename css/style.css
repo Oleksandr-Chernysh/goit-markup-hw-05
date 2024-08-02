@@ -690,7 +690,7 @@ footer p {
 }
 
 .checkbox-label{
-    display: flex;
+    display: inline-flex;
     align-items: center;
     margin-bottom: 24px;
 }
